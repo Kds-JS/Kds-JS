@@ -1,6 +1,6 @@
 Salut 👋,
 
-Je suis Koudous SALIFOU, développeur en devenir, autodidacte.
+Je suis Koudous SALIFOU, développeur en devenir, autodidacte , Web3 dev soon.
 
 ## Current Stats
 
