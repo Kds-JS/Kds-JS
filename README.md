@@ -64,6 +64,9 @@
   <a href="https://twitter.com/kds_JS" >
     <img src="https://img.shields.io/badge/-kds-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
+   <a href="https://discord.com/users/842885714190139394" >
+    <img src="https://img.shields.io/badge/-kds-%231DA1F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" />
+  </a>
   <a href="https://github.com/Kds-JS" >
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github  />
   </a>
