@@ -3,7 +3,7 @@
 
 - 🌴 I am a freelance <b>Frontend Developer React.js/Next.js</b>
 - 🌱 I'm currently learning <b>Solidity</b>
-- 📫 Find out more about me <a href="https://kdssalifou.vercel.app/" target="_blank">HERE?</a>
+- 📫 Find out more about me <a href="https://www.koudous-salifou.com" target="_blank">HERE?</a>
 
 
 
@@ -70,7 +70,7 @@
   <a href="https://github.com/Kds-JS" >
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github  />
   </a>
-  <a href="mailto:kdssalifou@gmail.com">
+  <a href="mailto:contact@koudous-salifou.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
