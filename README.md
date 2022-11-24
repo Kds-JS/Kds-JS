@@ -27,6 +27,26 @@
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://imgs.search.brave.com/2jT7-iAZfebNObMMHvuG-nG_LUofCe2qeFQ5KZxyq1s/rs:fit:192:192:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMudmVyY2VsLmNv/bS9pbWFnZS91cGxv/YWQvdjE2MDc1NTQz/ODUvcmVwb3NpdG9y/aWVzL25leHQtanMv/bmV4dC1sb2dvLnBu/Zw" alt="nextjs" width="40" height="40"/> 
   </a>
+  
+   <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> 
+    <img src="https://ih1.redbubble.net/image.1599719281.7189/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="solidity" width="40" height="40"/> 
+  </a>
+  
+   <a href="https://docs.ethers.io/v5/" target="_blank"> 
+    <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers js" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://hardhat.org/docs" target="_blank"> 
+    <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://ethereum.org/en/developers/docs/" target="_blank"> 
+    <img src="https://logos-marques.com/wp-content/uploads/2021/03/Ethereum-Logo.png" alt="ethereum" width="40" height="40"/> 
+  </a>
+  
+   <a href="https://nodejs.org/en/docs/" target="_blank"> 
+    <img src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2021/07/NodeJS.jpg" alt="node js" width="40" height="40"/> 
+  </a>
 
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="40" height="40"/> 
