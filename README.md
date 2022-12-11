@@ -2,7 +2,7 @@
 ###  I'm Koudous SALIFOU ( kds )
 
 - 🌴 I am a <b>web3 Developer React.js/Next.js</b> & <b>Solidity</b>
-- 🌱 I'm currently learning <b>Solidity</b>, <b>Node.js & Express.js</b>
+- 🌱 I'm currently learning <b>Solidity</b>
 - 📫 Find out more about me <a href="https://www.koudous-salifou.com" target="_blank">HERE?</a>
 
 
