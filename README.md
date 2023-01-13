@@ -1,80 +1,53 @@
-## Hello 👋
-###  I'm Koudous SALIFOU ( kds )
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is koudous Salifou (kds)
+=============================================================================================================================================
 
-- 🌴 I am a <b>web3 Developer React.js/Next.js</b> & <b>Solidity</b>
-- 🌱 I'm currently learning <b>web3 dev</b>
-- 📫 Find out more about me <a href="https://www.koudous-salifou.com" target="_blank">HERE?</a>
-- 📝 I write articles on <a href="https://blog.koudous-salifou.com/" target="_blank">My Blog</a>
+I am a Web3 Developer React.js/Next.js & Solidity
+------------------------------------------
+
+* 🌍  I'm based in Benin
+* 🧠  I'm currently learning web3 dev
+* 🖥️  See my portfolio at [My Portfolio](http://koudous-salifou.com/)
+* 📝 I write articles on <a href="https://blog.koudous-salifou.com/" target="_blank">My Blog</a>
+* 🤝  I'm open to collaborating on interesting projects
+* ✉️  You can contact me at [contact@koudous-salifou.com](mailto:contact@koudous-salifou.com)
+
+### Skills
 
 
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">  
-    <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="typescript" width="40" height="40"/> 
-  </a>
-
-   <a href="https://sass-lang.com/" target="_blank"> 
-    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
+<a href="https://nextjs.org/" target="_blank"> 
     <img src="https://imgs.search.brave.com/2jT7-iAZfebNObMMHvuG-nG_LUofCe2qeFQ5KZxyq1s/rs:fit:192:192:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMudmVyY2VsLmNv/bS9pbWFnZS91cGxv/YWQvdjE2MDc1NTQz/ODUvcmVwb3NpdG9y/aWVzL25leHQtanMv/bmV4dC1sb2dvLnBu/Zw" alt="nextjs" width="40" height="40"/> 
   </a>
-  
-   <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> 
-    <img src="https://ih1.redbubble.net/image.1599719281.7189/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="solidity" width="40" height="40"/> 
-  </a>
-  
-   <a href="https://docs.ethers.io/v5/" target="_blank"> 
-    <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers js" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://hardhat.org/docs" target="_blank"> 
-    <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://ethereum.org/en/developers/docs/" target="_blank"> 
-    <img src="https://logos-marques.com/wp-content/uploads/2021/03/Ethereum-Logo.png" alt="ethereum" width="40" height="40"/> 
-  </a>
-  
-   <a href="https://nodejs.org/en/docs/" target="_blank"> 
-    <img src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2021/07/NodeJS.jpg" alt="node js" width="40" height="40"/> 
-  </a>
-
-  <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="40" height="40"/> 
-  </a>
-
-  <a href="https://chakra-ui.com/" target="_blank"> 
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
+ <a href="https://chakra-ui.com/" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" width="40" height="40"/> 
   </a>
-
-   <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://imgs.search.brave.com/fJGFsGzX4QEiDNYIsWwNeyLSEsAC1fhgfDoKBz_ZE6g/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9maXJl/YmFzZS5nb29nbGUu/Y29tL2ltYWdlcy9i/cmFuZC1ndWlkZWxp/bmVzL2xvZ28tbG9n/b21hcmsucG5n" alt="firebase" width="40" height="40"/> 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
+ <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> 
+    <img src="https://ih1.redbubble.net/image.1599719281.7189/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="solidity" width="40" height="40"/> 
   </a>
-
-   <a href="https://vercel.com/" target="_blank"> 
-    <img src="https://imgs.search.brave.com/Ipsf1-VzfUXf9TlTzwldan6iLDy2ppQOiaPkYxOa8TI/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5t/bk1Rd2FKRnoxdGNO/Q0hrNVlLdFVBSGFI/YSZwaWQ9QXBp" alt="vercel" width="40" height="40"/> 
-  </a>
-
-   <a href="https://www.netlify.com/" target="_blank"> 
-    <img src="https://imgs.search.brave.com/tQR14LB23xhBA7gYngwkwS8FF0i5UKhTv41cTZu9QI4/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Fhc3dvcnRo/eS5jb20vbmV0bGlm/eV82NTAyX2xvZ29f/MTU4NjQyNTEwN196/Y2poby5wbmc" alt="netlify" width="40" height="40"/> 
-  </a>
- 
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" height="40" alt="Ethereum" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="40" height="40" alt="MetaMask" /></a>
+<a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="40" height="40" alt="Chainlink" /></a>
+<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="40" height="40" alt="Ethers" /></a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="40" height="40" alt="Hardhat" /></a>
+<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="40" height="40" alt="IPFS" /></a>
 </p>
 
-## Top Languages
+<!-- ## Top Languages
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kds-JS&theme=great-gatsby) |
-| :-----------------------------------------------------------------------------------------------------: |
+| :-----------------------------------------------------------------------------------------------------: | -->
 
 ## Contact
 
