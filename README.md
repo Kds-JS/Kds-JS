@@ -44,10 +44,10 @@ I am a Web3 Developer React.js/Next.js & Solidity
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="40" height="40" alt="IPFS" /></a>
 </p>
 
-<!-- ## Top Languages
+## Top Languages
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kds-JS&theme=great-gatsby) |
-| :-----------------------------------------------------------------------------------------------------: | -->
+| :-----------------------------------------------------------------------------------------------------: |
 
 ## Contact
 
