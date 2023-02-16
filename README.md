@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is koudous Salifou (kds)
 =============================================================================================================================================
 
-I am a Web3 Developer React.js/Next.js & Solidity
+I am a Web3 Developer React.js/Vue.js & Solidity
 ------------------------------------------
 
 * 🌍  I'm based in Benin
@@ -21,6 +21,8 @@ I am a Web3 Developer React.js/Next.js & Solidity
 <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://imgs.search.brave.com/2jT7-iAZfebNObMMHvuG-nG_LUofCe2qeFQ5KZxyq1s/rs:fit:192:192:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMudmVyY2VsLmNv/bS9pbWFnZS91cGxv/YWQvdjE2MDc1NTQz/ODUvcmVwb3NpdG9y/aWVzL25leHQtanMv/bmV4dC1sb2dvLnBu/Zw" alt="nextjs" width="40" height="40"/> 
   </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vuejs" /></a>
+<a href="https://nuxtjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="40" height="40" alt="Nuxtjs" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
  <a href="https://chakra-ui.com/" target="_blank"> 
