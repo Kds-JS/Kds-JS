@@ -7,7 +7,6 @@ I am a Web3 Developer React.js/Vue.js & Solidity
 * 🌍  I'm based in Benin
 * 🧠  I'm currently learning web3 dev
 * 🖥️  See my portfolio at [My Portfolio](http://koudous-salifou.com/)
-* 📝 I write articles on <a href="https://blog.koudous-salifou.com/" target="_blank">My Blog</a>
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [contact@koudous-salifou.com](mailto:contact@koudous-salifou.com)
 
