@@ -1,12 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is koudous Salifou (kds)
 =============================================================================================================================================
 
-I am a Web3 Developer React.js/Vue.js & Solidity
+I am a Web3 Developer Solidity & Typescript
 ------------------------------------------
 
-* 🌍  I'm based in Benin
-* 🧠  I'm currently learning web3 dev
-* 🖥️  See my portfolio at [My Portfolio](http://koudous-salifou.com/)
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [contact@koudous-salifou.com](mailto:contact@koudous-salifou.com)
 
