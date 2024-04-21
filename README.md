@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm koudous Salifou (kds)
 =============================================================================================================================================
 
-I'm Web3 Developer Solidity • Nest.JS • React.JS
+I'm Web3 Developer Solidity • Node.JS • React.JS
 ------------------------------------------
 
 * 🤝  I'm open to collaborating on interesting projects
