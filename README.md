@@ -5,7 +5,7 @@ I'm Blockchain Developer Solidity • Node.JS
 ------------------------------------------
 
 * 🤝  I'm open to collaborating on interesting projects
-* ✉️  You can contact me at [contact@koudous-salifou.com](mailto:contact@koudous-salifou.com)
+* ✉️  You can contact me at [koudous@0xkds.com](mailto:koudous@0xkds.com)
 
 ### Skills
 <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> 
