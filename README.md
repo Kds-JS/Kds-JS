@@ -41,7 +41,7 @@ I'm Blockchain Developer Solidity • Node.JS
   <a href="https://github.com/Kds-JS" >
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github  />
   </a>
-  <a href="mailto:contact@koudous-salifou.com">
+  <a href="mailto:koudous@0xkds.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
