@@ -1,11 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm koudous Salifou (kds)
-=============================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Blockchain Developer Solidity • Node.JS
+========================================================================================================================================================
 
-I'm Blockchain Developer Solidity • Node.JS
-------------------------------------------
+💬 Ask me about Cryptocurrency, NFTs, Blockchains or any other tech stuff!
 
-* 🤝  I'm open to collaborating on interesting projects
-* ✉️  You can contact me at [koudous@0xkds.com](mailto:koudous@0xkds.com)
+📫 How to reach me: [koudous@0xkds.com](mailto:koudous@0xkds.com)
 
 ### Skills
 <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> 
